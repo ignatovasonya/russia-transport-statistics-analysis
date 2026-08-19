@@ -29,4 +29,25 @@
 - matplotlib
 - Jupyter Notebook
 
+## Файлы проекта
+
+### 📊 Данные
+
+Исходный набор данных:
+
+- [transport_data.csv](data/transport_data.csv)
+
+### 💻 Код анализа
+
+Jupyter Notebook с кодом анализа:
+
+- [analysis.ipynb](notebooks/analysis.ipynb)
+
+### 📄 Отчёт
+
+Полный текст исследования:
+
+- [environmental-analysis-russia.docx](docs/environmental-analysis-russia.docx)
+
+
 ## Структура проекта
